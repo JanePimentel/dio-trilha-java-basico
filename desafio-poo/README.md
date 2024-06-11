@@ -1,6 +1,6 @@
 
 ## Diagrama UML
-<img src="/assets/img/arquivo.gif">
+<img src="/bin/assets/img/Diagrama_UML_Iphone.png">
 
 Diagrama UML que representa as funcionalidades de um Iphone abordando os seguintes aspectos: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
